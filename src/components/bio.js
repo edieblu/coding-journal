@@ -38,11 +38,12 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
-              {` `}
+              Written by <strong>{author}</strong> who lives and works in Milton
+              Keynes. Eva is a co-founder of{" "}
+              <a href="https://girlscodemk.co.uk">GirlsCode MK</a> - a nonprofit
+              that teaches women how to code, for free.{" "}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                You should follow her on Twitter.
               </a>
             </p>
           </div>
